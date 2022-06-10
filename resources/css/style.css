@@ -4,22 +4,33 @@ body{
   background-color: black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.header {
+/* HEADINGS */
+
+.header--main {
   font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
 }
+
+.header--secondary {
+font-weight: 300;
+font-size: 42px;
+color: white;
+}
+
+.header--sub-header {
+  font-size: 21px;
+  color: grey;
+  }
+/* LINKS */
+
 .cta {
   color: aquamarine;
   font-size: 16px;
 }
 img {
   align-items: center;
-}
-h2 {
-  font-weight: 300;
-  font-size: 42px;
 }
 .detail {
   font-size: 21px;
