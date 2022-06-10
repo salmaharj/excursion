@@ -25,7 +25,7 @@ color: white;
   }
 /* LINKS */
 
-.cta {
+.link--cta {
   color: aquamarine;
   font-size: 16px;
 }
@@ -33,7 +33,3 @@ img {
   align-items: center;
 }
 
-footer {
-  text-align: right;
-  color:grey;
-}
